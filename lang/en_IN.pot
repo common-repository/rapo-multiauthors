@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Rapo MultiAuthors\n"
+"POT-Creation-Date: 2017-07-07 10:00+0530\n"
+"PO-Revision-Date: 2017-07-07 10:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: Menaka S.\n"
+"Language: en_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/class-rma-admin.php:58 rapo-multiauthors.php:169
+msgid "Add one or more contributors for this post"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:84
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:89
+msgid "Display in"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:95
+msgid "Only in Posts"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:96
+msgid "Homepage and Posts"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:97 includes/admin/class-rma-admin.php:149
+msgid "None"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:101
+msgid "Colors and Design"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:106
+msgid "Gravatar size"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:109
+#, php-format
+msgid "The %s size in pixels. ."
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:114
+msgid "Background color"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:121
+msgid "Text color"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:128
+msgid "Title color"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:135
+msgid "Border size"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:139
+msgid "Thickness of the border of the box (only integers)."
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:143
+msgid "Border style"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:150
+msgid "Solid"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:151
+msgid "Dotted"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:152
+msgid "Dashed"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:156
+msgid "Border color"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:176
+msgid "Facebook"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:177
+msgid "Twitter"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:178
+msgid "Google Plus"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:179
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:180
+msgid "Flickr"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:181
+msgid "Tumblr"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:182
+msgid "Vimeo"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:183
+msgid "YouTube"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:184
+msgid "Instagram"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:185
+msgid "Pinterest"
+msgstr ""
+
+#: includes/admin/class-rma-admin.php:220
+#: includes/admin/class-rma-admin.php:221
+msgid "Rapo MultiAuthors"
+msgstr ""
+
+#: includes/class-rma-contributor-box.php:119
+#: includes/class-rma-contributor-box.php:205
+msgid "All posts by"
+msgstr ""

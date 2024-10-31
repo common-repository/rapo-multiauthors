@@ -1,0 +1,1 @@
+jQuery(document).ready(function(a){a(".rapo-multiauthors-color-field").wpColorPicker()});

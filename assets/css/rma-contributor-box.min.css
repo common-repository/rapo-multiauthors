@@ -1,0 +1,124 @@
+.rma-wrap {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+	-moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    border-radius:5px;
+    border: 2px solid;
+    width: 100%;
+    clear: both;
+    display: block;
+    overflow: hidden;
+    word-wrap: break-word;
+    padding: 10px;
+}
+.rma-wrap h2 {
+    border-radius:2px;
+	color:white;
+	padding:0 0 0 10px ;
+}
+.rma-wrap .rma-gravatar {
+    float: left;
+    padding: 0 20px 20px 20px;
+}
+.rma-wrap .rma-gravatar img {
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+    box-shadow:none;
+    background:#fff;
+    border:1px solid #ccc;
+    margin-right:15px;
+    padding:3px
+}
+.rma-wrap .rma-authorname {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1;
+    margin: 0 0 0 20px;
+    display: block;
+}
+.rma-wrap .rma-authorname a {
+    text-decoration: none;
+}
+.rma-wrap .rma-authorname a:focus {
+    outline: 0;
+}
+.rma-wrap .rma-desc {
+    display: block;
+    margin: 5px 20px;
+}
+.rma-wrap .rma-desc a {
+    text-decoration: none;
+}
+.rma-wrap .rma-desc p {
+    margin: 5px 0 12px;
+}
+.clearfix:after, .clearfix:before {
+    content: ' ';
+    display: table;
+    line-height: 0;
+    clear: both;
+}
+.ie7 .clearfix {
+    zoom: 1;
+}
+/*
+.social-icon{{
+    display: inline-block;
+    padding: 8px 12px;
+    background: #eee;
+    border: solid 1px #D5D5D5;
+}
+.social-icon span{
+    display: inline-block;
+}
+.social-icon span:before{
+    font-family: 'FontAwesome';
+    content: '\f085';
+    position: relative;
+    margin-right: 5px;
+    font-size: 110%;
+}
+
+.social-icon-facebook {
+    font-family: 'FontAwesome';
+    content: '\f09a';
+}
+.social-icon-twitter :before{
+    font-family: 'FontAwesome';
+    content: '\f085';
+}*/
+
+
+@media screen and (max-width:480px) {
+    .rma-wrap {
+        text-align: center;
+    }
+    .rma-wrap .rma-gravatar {
+        float: none;
+        padding: 20px 0;
+        text-align: center;
+        margin: 0 auto;
+        display: block;
+    }
+    .rma-wrap .rma-gravatar img {
+        float: none;
+        display: inline-block;
+        display: -moz-inline-stack;
+        vertical-align: middle;
+        zoom: 1;
+    }
+    .rma-wrap .rma-desc {
+        margin: 0 10px 20px;
+        text-align: center;
+    }
+    .rma-wrap .rma-authorname {
+        text-align: center;
+        margin: 10px 0 20px;
+    }
+}
